@@ -1,0 +1,30 @@
+.expo
+.vscode
+node_modules
+yarn-error.log
+
+yarn.lock
+*/**/yarn.lock
+
+# Web
+web-build
+web-report
+
+# Electron
+dist
+
+# Gatsby
+.cache
+with-gatsby/public
+
+# Next.js 
+.next
+with-nextjs/out
+
+# Native
+*/ios/Pods
+
+# Websockets
+*/backend/.env
+
+.DS_Store
