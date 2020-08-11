@@ -1,9 +1,9 @@
 <!-- Header -->
 
 <p align="center">
-  <a aria-label="create a new example" href="https://github.com/nomi9995/clone-boilerplate/blob/master/contributing.md"><b>Create an Example</b></a>
+  <a aria-label="create a new example" href="https://github.com/nomi9995/clone-boilerplate/blob/master/contributing.md"><b>Create a Boilerplate</b></a>
  |
-  <a aria-label="suggest an example" href="https://github.com/nomi9995/boilerplate-examples/issues/new?assignees=&labels=&template=feature_request.md">Suggest an Example 🚀</a>
+  <a aria-label="suggest an example" href="https://github.com/nomi9995/boilerplate-examples/issues/new?assignees=&labels=&template=feature_request.md">Suggest a Boilerplate 🚀</a>
 </p>
 
 <!-- Title -->
