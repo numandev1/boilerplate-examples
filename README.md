@@ -6,7 +6,21 @@
   <a aria-label="suggest an example" href="https://github.com/nomi9995/clone-boilerplate/issues/new?assignees=&labels=&template=feature_request.md">Suggest an Example 🚀</a>
 </p>
 
+<!-- Title -->
+<p align="center">
+<img src="https://github.com/nomi9995/clone-boilerplate/raw/master/media/boilerplateIcon.png" alt="alt text" width="150"/>
+</p>
 
+<!-- Header -->
+
+<p align="center">
+  <b>Clone Universal Boilerplates for everylanguage.</b>
+  <br />
+</p>
+
+<p align="center">
+  <img height="450" src="https://github.com/nomi9995/clone-boilerplate/raw/master/media/demo.gif?raw=true">
+</p>
   
 </p>
 
@@ -30,6 +44,9 @@ The examples feature was inspired by the `templates` system of [create-react-nat
 
 
 <!-- Footer -->
+
+### Add New Boilerplate
+you can add new boilerplate here [Boilerplate-Examples](https://github.com/nomi9995/boilerplate-examples). Please read Contributing guide below.
 
 ## Contributors ✨
 
