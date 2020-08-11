@@ -34,6 +34,9 @@ Use this repo to clone boilerplate with [**clone-boilerplate**](https://github.c
 npx clone-boilerplate
 ```
 
+### Add New Boilerplate
+you can add new boilerplate here [Boilerplate-Examples](https://github.com/nomi9995/boilerplate-examples). Please read Contributing guide below.
+
 ### Contributing
 
 If you'd like to contribute something, please check out our [contributing guide](https://github.com/nomi9995/clone-boilerplate/blob/master/contributing.md "contributing guide")!
@@ -44,9 +47,6 @@ The examples feature was inspired by the `templates` system of [create-react-nat
 
 
 <!-- Footer -->
-
-### Add New Boilerplate
-you can add new boilerplate here [Boilerplate-Examples](https://github.com/nomi9995/boilerplate-examples). Please read Contributing guide below.
 
 ## Contributors ✨
 
